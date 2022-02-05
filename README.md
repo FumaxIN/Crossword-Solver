@@ -37,7 +37,8 @@ python crossword.py
     
 * Example:
 
-![crossword format.png](crossword format.png)
+![crossword format](https://user-images.githubusercontent.com/40835240/152645725-85978db8-a2a1-487b-9f9e-169eb6f7fc16.png)
+
 
 boy
 boyo
