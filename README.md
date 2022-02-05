@@ -18,7 +18,7 @@ https://github.com/FumaxIN/Crossword-Solver.git
 ```
 Switch to the directory
 ```shell
-cd crossword
+cd Crossword-Solver
 ```
 Run the command
 ```shell
