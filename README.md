@@ -34,3 +34,32 @@ python crossword.py
 * Crossword table ccreated
     
 * All the words are now listed
+    
+* Example:
+
+![crossword format.png](crossword format.png)
+boy
+boyo
+bat
+tree
+ree
+cat
+aba
+ton
+tin
+rat
+rato
+oxo
+atop
+top
+oozy
+fiz
+
+# Note:
+As this is just a side project to practice pandas and numpy, this may not be very efficient and comes with some constraints:
+* Diagonally it can only find one word.
+* Diagonal search is limited to Left to Right diagonal only.
+* In any direction, search will happen in a straight line, i.e. no reverse search
+
+Well, I really wanted to overcome these constraints, but with colleges reopening and my other priorities I am currently unable to. Might do in future.
+
