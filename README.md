@@ -14,7 +14,7 @@ Solves a sqare(nxn) crossword puzzle.
 Download the file
 
 ```shell
-git clone https://github.com/FumaxIN/crossword.git
+https://github.com/FumaxIN/Crossword-Solver.git
 ```
 Switch to the directory
 ```shell
