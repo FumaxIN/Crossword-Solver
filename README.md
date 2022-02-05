@@ -44,13 +44,10 @@ boy
 boyo
 bat
 tree
-ree
 cat
-aba
 ton
 tin
 rat
-rato
 oxo
 atop
 top
