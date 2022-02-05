@@ -38,6 +38,7 @@ python crossword.py
 * Example:
 
 ![crossword format.png](crossword format.png)
+
 boy
 boyo
 bat
