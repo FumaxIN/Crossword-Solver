@@ -18,7 +18,7 @@ https://github.com/FumaxIN/Crossword-Solver.git
 ```
 Switch to the directory
 ```shell
-cd crossword
+cd Crossword-Solver
 ```
 Run the command
 ```shell
@@ -37,18 +37,17 @@ python crossword.py
     
 * Example:
 
-![crossword format.png](crossword format.png)
+![crossword format](https://user-images.githubusercontent.com/40835240/152645725-85978db8-a2a1-487b-9f9e-169eb6f7fc16.png)
+
+
 boy
 boyo
 bat
 tree
-ree
 cat
-aba
 ton
 tin
 rat
-rato
 oxo
 atop
 top
